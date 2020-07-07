@@ -1,0 +1,335 @@
+#top_advertising{
+	width:990px;
+	height:83px;
+}
+#top_advertising .ta_in{
+	width:990px;
+	height:83px;
+}
+#threefloor .tf_in .tf_center .tf_Ccontent ul{
+	width:272px;
+}
+#threefloor .tf_in .tf_center{
+	width:190px;
+}
+#threefloor .tf_in .tf_center .tf_Ccontent ul li.tfr{
+	display:none;
+}
+#navigation{
+	width:990px;
+}
+#logo_seach{
+	width:990px;
+}
+#logo_seach .lo_in .right_search{
+	left:390px;
+}
+#logo_seach .lo_in{
+	width:990px;
+}
+#sub_menu .menu_in{
+	width:990px;
+}
+#main_content{
+	width:990px;
+}
+#main_content .mc_in{
+	width:990px;
+}
+#sub_menu .menu_in .menu_right a img{
+	margin-left:54px;
+}
+#main_content .mc_in .mc_center .no_hover ul li{
+	width:152px;
+	height:122px;
+}
+#main_content .mc_in .mc_center .no_hover ul li img{
+	width:70px;
+	height:70px;
+}
+/* #main_content .main_shuffling{
+	width:990px;
+} */
+#new_threefloor .newtf_in .ntf_center{
+	width:190px;
+}
+#new_threefloor .newtf_in .ntf_center .ntf_Ccontent ul{
+	width:190px;
+}
+#new_threefloor .newtf_in .ntf_center .ntf_Ccontent ul li.ntfr{
+	display:none;
+}
+.more{
+	display:none;
+}
+#pindao .pindao_in .pindao_left ul li{
+	width:241px;
+	height:216px;
+}
+#pindao .pindao_in .pindao_left ul li a{
+	line-height:216px;
+}
+#pindao .pindao_in .pindao_left ul li a .pd_bgimg{
+	width:221px;
+	height:196px;
+}
+#pindao .pindao_in .pindao_left ul li a .pd_tlimg{
+	width:124px;
+	height:124px;
+}
+#pindao .pindao_in .pindao_left ul li a .pd_text .pd_name{
+	font-size:16px;
+	margin-top:10px;
+}
+#pindao .pindao_in .pindao_left ul li a .pd_text .pd_line{
+	top:38px;
+}
+#pindao .pindao_in .pindao_left ul li a .pd_text .pd_desc{
+	margin-top:10px;
+}
+#pindao .pindao_in{
+	width:992px;
+	height:440px;
+}
+#pindao .pindao_in .pindao_right .pd_Rtop{
+	
+}
+#pindao .pindao_in .pindao_right .pd_Rtop .pd_Rtleft{
+	width:352px;
+	height:199px;
+	overflow:hidden;
+}
+#pindao .pindao_in .pindao_right .pd_Rtop .pd_Rtleft ul .pd_active{
+	width:352px;
+	height:199px;
+}
+#pindao .pindao_in .pindao_right .pd_Rtop .pd_Rtleft ul li a .pd_play{
+	top:74px;
+}
+#pindao .pindao_in .pindao_right .pd_Rtop .pd_Rtright{
+	width:113px;
+	height:201px;
+}
+#pindao .pindao_in .pindao_right .pd_Rtop .pd_Rtright ul li{
+	height:63px;
+	margin-bottom:6px;
+}
+#pindao .pindao_in .pindao_right .pd_Rtop .pd_Rtright ul li img{
+	width:113px;
+	height:63px;
+}
+#pindao .pindao_in .pindao_right .pd_Rtop .pd_Rtright ul li span{
+	top:25px;
+}
+#pindao .pindao_in .pindao_right .pd_Rtop .pd_Rtright ul li p{
+	width:108px;
+	top:46px;
+}
+#pindao .pindao_in .pindao_right .pd_Rtop{
+	width:494px;
+	height:216px;
+}
+#pindao .pindao_in .pindao_right .pd_Rbottom{
+	width:490px;
+	height:216px;
+}
+#pindao .pindao_in .pindao_right .pd_Rbottom ul{
+	width:101%;
+}
+#pindao .pindao_in .pindao_right .pd_Rbottom ul li{
+	width:241px;
+	height:216px;
+}
+#pindao .pindao_in .pindao_right .pd_Rbottom ul li a{
+	line-height:216px;
+}
+
+#pindao .pindao_in .pindao_right .pd_Rbottom ul li a .pd_bgimg{
+	width:221px;
+	height:196px;
+}
+#pindao .pindao_in .pindao_right .pd_Rbottom ul li a .pd_tlimg{
+	width:124px;
+	height:124px;
+}
+#pindao .pindao_in .pindao_right .pd_Rbottom ul li a .pd_text .pd_name{
+	font-size:16px;
+	margin-top:10px;
+}
+#pindao .pindao_in .pindao_right .pd_Rbottom ul li a .pd_text .pd_line{
+	top:38px;
+}
+#pindao .pindao_in .pindao_right .pd_Rbottom ul li a .pd_text .pd_desc{
+	margin-top:10px;
+}
+#pindao .pindao_in .pindao_left{
+	width:502px;
+	height:440px;
+}
+#pindao .pindao_in .pindao_right{
+	width:490px;
+	height:440px;
+}
+#new_threefloor .newtf_in{
+	width:990px;
+}
+#threefloor .tf_in{
+	width:990px;
+}
+.middle_floor .mf_in{
+	width:990px;
+}
+.middle_floor .mf_in a{
+	width:330px;
+	height:83px;
+}
+#pindao{
+	height:440px;
+}
+.pin_r{
+	display:none;
+}
+.right_hidden{
+	width:200px !important;
+}
+.right_mainH{
+	width:390px !important;
+}
+.partition .p_in{
+	width:990px;
+}
+.partition.par_another .p_in .pin_main.pinm_another .pin_rightout{
+	width:390px;
+}
+.pin_mcrH{
+	width:200px !important;
+}
+.pin_mlH{
+	width:390px !important;
+}
+#advertising{
+	height:75px;
+}
+#advertising a img{
+	width:990px;
+	height:75px;
+}
+#snacks .snacks_in{
+	width:990px;
+}
+#snacks .snacks_in .snacks_content{
+	width:990px;
+}
+#snacks .snacks_in .snacks_content ul li{
+	width:197px;
+	height:300px;
+	margin:1px 0 0 1px;
+}
+#snacks .snacks_in .snacks_content ul li a img{
+	width:180px;
+	height:180px;
+}
+#snacks .snacks_in .snacks_content ul li a .sc_title{
+	width:167px;
+}
+#snacks .snacks_in .snacks_content ul li a .sc_price{
+	width:167px;
+}
+#snacks .snacks_in .snacks_content ul li a .sc_preferential{
+	width:167px;
+}
+#snacks .snacks_in .snacks_content ul li .similar{
+	top:237px;
+	right:14px;
+}
+#snacks .snacks_in .snacks_content ul li>a{
+	padding-top:0;
+}
+#footer .footer_in{
+	width:990px;
+}
+#footer .footer_in .fi_top .fi_title dl{
+	width:210px;
+	height:48px;
+}
+#footer .footer_in .fi_top  .fi_content dl{
+	width:170px;
+	height:160px;
+}
+#footer .footer_in .fi_bottom{
+	width:990px;
+}
+#flash .flash_left{
+	float:none;
+}
+#flash .flash_right{
+	float:none;
+}
+#content_title{
+	width:990px;
+}
+#content_title .in_content{
+	width:990px;
+}
+#content_title .in_content .ct_img{
+	height:120px;
+}
+#content_title .in_content .ct_main{
+	width:999px;
+}
+#sub_menu{
+	width:990px;
+}
+#main_content .mc_in .mc_center .is_hover{
+	width:616px;
+}
+#main_content .mc_in .mc_center .is_hover>ul>li .put .put_left{
+	width:230px;
+}
+#main_content .mc_in .mc_center .is_hover>ul>li .put>ul{
+	margin-left:23px;
+	width:252px;
+}
+#main_content .mc_in .mc_center .is_hover>ul>li .put>ul .put_rH{
+	display:none;
+}
+#main_content .main_shuffling .btn_lr{
+	margin-left:-305px;
+	width:630px;
+}
+#main_content .main_shuffling .div_points{
+	width:630px;
+	margin-left:-305px;
+}
+#main_content .mc_in .mc_left .left_sonlist{
+	width:800px;
+}
+#main_content .mc_in .mc_left .left_sonlist .left_conLeft{
+	width:599px;
+}
+#main_content .mc_in .mc_left .left_sonlist .left_conLeft .left_contentlist>dl{
+	width:599px;
+}
+#main_content .mc_in .mc_left .left_sonlist .left_conLeft .left_contentlist>dl>dd{
+	width:500px;
+}
+#flash{
+	width:990px;
+	min-width:990px;
+}
+#content_title{
+	width:990px;
+}
+#content_title .in_content .ct_main ul li{
+	width:188px;
+}
+#noTop_nav .nT_in{
+	width:990px;
+}
+.search_in.noTop_search{
+	width:500px;
+	left:48.6%;
+}
+#noTop_nav .nT_in .nT_login{
+	right:-5px;
+}

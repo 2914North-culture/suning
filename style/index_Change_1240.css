@@ -1,0 +1,21 @@
+#sidebar .si_content{
+	position:absolute;
+	/* top:178px; */
+	padding-top:178px;
+	width:35px;
+	height:100%;
+	background-color:#383838;
+	/* display:none; */
+	visibility:hidden;
+}
+#sidebar .si_content .si_ctop .si_shopcar{
+	width:35px;
+	background-color:#383838;
+	text-align:center;
+	visibility:visible;
+}
+#sidebar .si_content .si_cbottom .si_gettop{
+	background-position:0 -260px;
+	background-color:#383838;
+	visibility:visible;
+}
